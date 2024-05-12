@@ -5,7 +5,7 @@
 <samp>Email me at [pvarsh@umich.edu](mailto:jonasg@umich.edu).</samp>
 
 <div>
-  <img height="175" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvarshh&layout=compact&theme=tokyonight&hide=astro" />
+  
   <img height="175" align="center" src="https://streak-stats.demolab.com?user=pvarshh&theme=tokyonight&border_radius=4.5" />
   
 </div>
