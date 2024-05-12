@@ -11,7 +11,7 @@ My Resume at [pvarshh.resume](https://github.com/pvarshh/resume)
 
 <div>
   <img height="160" src="https://streak-stats.demolab.com?user=pvarshh&theme=tokyonight&border_radius=4.5" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvarshh&layout=compact&theme=tokyonight&hide=astro" />
+  
 </div>
 
 
