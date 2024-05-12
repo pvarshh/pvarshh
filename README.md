@@ -1,10 +1,10 @@
-<h1><samp>Hi! I'm Pranav Varshney</samp></h1>
+<h1><samp>Hi, I'm Jonas 👾</samp></h1>
 
-<samp>I'm a computer science and statistics double major at the University of Michigan with an interest in low level programming.</samp>
+<samp>I'm a computer science major at the University of Michigan with an interest in infrastructure and distributed systems. Visit my [website](https://jonasiwnl.github.io) for more!</samp>
 
-<samp>Want to get in touch? Email me at [pvarsh@umich.edu](mailto:pvarsh@umich.edu).</samp>
+<samp>Want to get in touch? Email me at [jonasg\[at\]umich\[dot\]edu](mailto:jonasg@umich.edu).</samp>
 
 <div>
-  <img height="170" align="left" src="https://streak-stats.demolab.com?user=pvarshh&theme=tokyonight&border_radius=4" />
-  <img height="170" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvarshh&layout=compact&theme=tokyonight&hide=astro" />
+  <img height="175" align="center" src="https://streak-stats.demolab.com?user=jonasiwnl&theme=tokyonight&border_radius=4.5" />
+  <img height="175" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasiwnl&layout=compact&theme=tokyonight&hide=astro" />
 </div>
