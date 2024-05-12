@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **Go / GoLang**
 
-- 👯 I’m looking to collaborate on **nigga**
-
-- 🤝 I’m looking for help with **nigga**
-
 - 📫 How to reach me **pvarsh@umich.edu**
 
 <h3 align="left">Connect with me:</h3>
