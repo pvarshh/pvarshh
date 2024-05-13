@@ -14,7 +14,4 @@ My Resume at [pvarshh.resume](https://github.com/pvarshh/resume)
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvarshh&layout=compact&theme=tokyonight&hide=astro" />
 </div>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pvarshh" alt="pvarshh" /></a> </p>
-
 </p>
