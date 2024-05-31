@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav Varshney</h1> 
 
-- I’m currently learning **Go / GoLang**
-
 Reach me at [pvarshh.email](mailto:pvarsh@umich.edu) or [pvarshh.linkedin](https://linkedin.com/in/pvarshh)
 
 My Resume at [pvarshh.resume](https://github.com/pvarshh/resume)
