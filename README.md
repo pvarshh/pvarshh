@@ -1,4 +1,4 @@
- <samp>[website](https://pvarshh.me/) | [email](mailto:pvarsh@umich.edu) | [linkedin](https://linkedin.com/in/pvarshh) | [nodus](https://nodus-swart.vercel.app/)</samp>
+ <samp>[website](https://pvarshh.me/) | [email](mailto:pvarsh@umich.edu) | [linkedin](https://linkedin.com/in/pvarshh) | [nodus compute](https://nodus-compute.ai/)</samp>
 
 कृण्वन्तो विश्वं आर्यं | Make the world noble
 
